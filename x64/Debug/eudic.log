@@ -1,0 +1,5 @@
+﻿  eudic.cpp
+C:\Users\69579\source\repos\eudic\eudic.cpp(31,119): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\69579\source\repos\eudic\eudic.cpp(33,110): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\69579\source\repos\eudic\eudic.cpp(34,122): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  eudic.vcxproj -> C:\Users\69579\source\repos\eudic\x64\Debug\eudic.exe
